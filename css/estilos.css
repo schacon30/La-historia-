@@ -10,9 +10,9 @@ body
 
 #Cabezera 
 {
-    background: aquamarine;
+    background: rgb(106, 205, 230);
     box-shadow: 0px 2px 20px opx rgba(0,0,0,0.5);
-    color: cadetblue;
+    color: rgb(107, 95, 160);
     font-family: "Times roman";
     font-weight: bold;
     margin: 0em;
