@@ -2,7 +2,7 @@ body
 {
     color:cadetblue;
     text-align: center;
-    font-family: "courier";
+    font-family: "jrlmnopqr";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,13 +10,12 @@ body
 
 #Cabezera 
 {
-    background: rgb(106, 205, 230);
+    background: rgb(84, 235, 227);
     box-shadow: 0px 2px 20px opx rgba(0,0,0,0.5);
-    color: rgb(107, 95, 160);
+    color: rgb(241, 237, 237);
     font-family: "Times roman";
     font-weight: bold;
-    margin: 0em;
-    padding: o.5em;
+    padding: 0.5em;
 }
 
 #Cabezera #tagline
@@ -32,7 +31,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid blue;
+    border: 1px solid rgb(78, 184, 175);
     margin: 0 auto;
 }
 
