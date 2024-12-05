@@ -43,3 +43,13 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+
+   background: #80ccf8;
+   color:rgb(112, 58, 173);
+   text-align: center;
+   padding-inline: 0.5cm ;
+
+}
