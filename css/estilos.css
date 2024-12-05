@@ -1,6 +1,7 @@
 body
 {
-    color:cadetblue;
+    background: rgb(12, 114, 155);
+    color:rgb(246, 247, 252);
     text-align: center;
     font-family: "Edwardian Script ITC";
     font-size: 16px;
@@ -10,13 +11,20 @@ body
 
 #Cabezera 
 {
-    background: rgb(84, 235, 227);
+    background: rgb(84, 154, 235);
     box-shadow: 0px 2px 20px opx rgba(0,0,0,0.5);
     color: rgb(241, 237, 237);
     font-family: "Times roman";
     font-weight: bold;
     padding: 0.5em;
 }
+
+#Cabezera #logo
+{
+    width:40px;
+    vertical-align: middle;
+}
+
 
 #Cabezera #tagline
 {
@@ -31,7 +39,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid rgb(78, 184, 175);
+    border: 1px solid rgb(78, 145, 184);
     margin: 0 auto;
 }
 
@@ -41,5 +49,6 @@ body
 }
 #post
 {
+    background:rgb(108, 173, 226) ;
     padding: 1em;
 }
